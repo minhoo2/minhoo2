@@ -1,7 +1,18 @@
-# 👋 Hi, I'm 심민호!
+# 👋 안녕하세요, 심민호입니다!
 
-🔥 Interested in backend development, clean architecture, and real-world problem solving  
-🎯 Passionate about building impactful systems and collaborating with others
+🔥 백엔드 개발과 클린 아키텍처, 실제 문제 해결에 깊은 관심이 있습니다.
+🎯 효율적이고 확장 가능한 시스템을 만드는 데 열정을 가지고 있으며, 팀원과의 협업을 중요하게 생각합니다.
+
+🧠 About Me / 자기소개
+IT 비전공자이지만, 개발에 대한 관심을 계기로 백엔드에 깊이 빠졌습니다.
+
+Spring Boot 기반의 실전 프로젝트를 직접 설계하고 구현하며, REST API, JWT 인증, WebSocket 등을 다뤘습니다.
+
+복잡한 문제를 구조적으로 해결하는 것에 즐거움을 느끼고, 클린 코드와 **도메인 중심 설계(DDD)**를 지향합니다.
+
+빠르게 배우고 꾸준히 성장하는 개발자가 되기 위해 노력 중입니다.
+
+
 
 ---
 
