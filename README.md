@@ -1,7 +1,6 @@
 <h1 align="center">👋 안녕하세요, 백엔드 개발자 심민호입니다!</h1>
 
 <p align="center">
-  🔍 <strong>클린 아키텍처</strong>와 <strong>실제 문제 해결</strong>에 관심이 많습니다.<br>
   🧩 협업과 커뮤니케이션을 중시하며, 팀워크를 통해 더 나은 시스템을 만들고자 합니다.<br>
 </p>
 
@@ -21,16 +20,24 @@
 
 ## ⚙ 기술 스택
 
-<p align="center">
+### 🛠️ Backend
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
 </p>
 
-> 💡 경험 기술: Spring Security, JPA, WebSocket, Redis, QueryDSL, Gradle 등
+> 💡 사용 경험: Spring Security, JPA, WebSocket, Redis, QueryDSL, Gradle 등
+
+### 🎨 Frontend (기초 수준)
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
@@ -50,13 +57,20 @@
 | **헬스케어 식단 일지** | 개인 풀스택 프로젝트 (React + Spring Boot) | 진행 중... |
 
 ---
+
 ## 📈 활동 그래프
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhoo2&theme=github)
+
 ---
 
-## 📬 Contact
+## 📬 Contact  
 📧 Email: [zhf1066@naver.com](mailto:zhf1066@naver.com)
 
+<p>
+  <a href="https://your-notion-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/📘 Notion-Portfolio-blue?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center">
