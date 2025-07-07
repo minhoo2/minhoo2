@@ -30,4 +30,14 @@ Spring Boot 기반의 실전 프로젝트를 직접 설계하고 구현하며, R
 
 ---
 
+![Minho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhoo2&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhoo2&layout=compact&theme=tokyonight)
+
+---
+
+![Visitor](https://komarev.com/ghpvc/?username=사용자명&color=blue)
+
+---
+
 _Thanks for visiting!_ 😄
