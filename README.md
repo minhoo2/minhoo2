@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
-> 💡 사용 경험: Spring Security, JPA, WebSocket, Redis, QueryDSL, Gradle 등
+> 💡 사용 경험: Spring Security, JPA, Gradle 등
 
 ### 🎨 Frontend (기초 수준)
 <p>
