@@ -56,7 +56,7 @@
 | **배달 서비스 플랫폼** | JWT 로그인, 주문/결제 기능, 실시간 채팅 포함 | [🔗 GitHub](https://github.com/사용자명/레포명) |
 | **헬스케어 식단 일지** | 개인 풀스택 프로젝트 (React + Spring Boot) | 진행 중... |
 
-<a href="https://your-notion-link.com" target="_blank">
+<a href="https://www.notion.so/22aa5cba5bc080448702d3534d61e284?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/📘 Notion-작성%20중입니다-blue?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 ---
