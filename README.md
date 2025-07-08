@@ -1,8 +1,4 @@
-<h1 align="center">👋 안녕하세요, 개발자 심민호입니다!</h1>
-
-<p align="center">
-  🧩 협업과 커뮤니케이션을 중시하며, 팀워크를 통해 더 나은 시스템을 만들고자 합니다.<br>
-</p>
+<h1 align="center">👋 안녕하세요 심민호입니다!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minhoo2&color=blue" alt="Profile views" />
