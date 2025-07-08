@@ -49,7 +49,7 @@
 ## 🗂 주요 프로젝트
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| **배달 서비스 플랫폼** | JWT 로그인, 주문/결제 기능, 실시간 채팅 포함 | [🔗 GitHub](https://github.com/사용자명/레포명) |
+| **배달 서비스 플랫폼** | JWT 로그인, 주문/결제 기능, 실시간 채팅 포함 | [🔗 GitHub](https://github.com/VRSoda/TeamProject) |
 | **헬스케어 식단 일지** | 개인 풀스택 프로젝트 (React + Spring Boot) | 진행 중... |
 
 <a href="https://www.notion.so/22aa5cba5bc080448702d3534d61e284?source=copy_link" target="_blank">
