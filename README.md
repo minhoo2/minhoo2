@@ -50,7 +50,7 @@
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
 | **배달 서비스 플랫폼** | JWT 로그인, 주문/결제 기능, 실시간 채팅 포함 | [🔗 GitHub](https://github.com/VRSoda/TeamProject) |
-| **헬스케어 식단 일지** | 개인 풀스택 프로젝트 (React + Spring Boot) | 진행 중... |
+| **헬스케어 식단 일지** | 개인 풀스택 프로젝트 (React + Spring Boot) | [🔗 GitHub](https://github.com/minhoo2/Meal-Mate-project) |
 
 <a href="https://www.notion.so/22aa5cba5bc080c1b872dd8cb82a4ba0" target="_blank">
   <img src="https://img.shields.io/badge/📘 Notion-작성%20중입니다-blue?style=flat-square&logo=notion&logoColor=white"/>
